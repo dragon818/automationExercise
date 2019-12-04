@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/extra.js"],"names":["getWindowHeight","window","innerHeight"],"mappings":"aAAA,IAAMA,gBAAkB,WAAA,OAAMC,OAAOC,aACrCF","file":"main.js","sourcesContent":["const getWindowHeight = () => window.innerHeight;\ngetWindowHeight();"]}
